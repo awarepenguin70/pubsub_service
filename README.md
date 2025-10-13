@@ -64,8 +64,8 @@ Each topic maintains a collections.deque with a fixed size (maxlen=100) to store
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/awarepenguin70/pubsub_service
+cd pubsub_service
 Create and activate a virtual environment:
 
 bash
